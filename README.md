@@ -22,7 +22,7 @@ Welcome to my Github page! I am WanAn
 
 #### About Me: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wanan-life&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://wx4.sinaimg.cn/mw2000/006zsMRVgy1gxq83ni6myj31sc2dsnpd.jpg" />
 
 💻 My device:<br>
 ![Mac M1](https://img.shields.io/badge/-MacBook%20M1%202021-333333?style=flat&logo=Apple&logoColor=007396)
