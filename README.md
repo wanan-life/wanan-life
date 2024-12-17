@@ -27,7 +27,8 @@ Welcome to my Github page! I am WanAn
 	
 
 💻 My device:<br>
-![Mac M1](https://img.shields.io/badge/-MacBook%20M1%202021-333333?style=flat&logo=Apple&logoColor=007396)
+![MacBookPro M1](https://img.shields.io/badge/-MacBook%20M1%202021-333333?style=flat&logo=Apple&logoColor=007396)
+![Mac Mini M4](https://img.shields.io/badge/-MacBook%20M1%202021-333333?style=flat&logo=Apple&logoColor=007396)
 ![IPhone13](https://img.shields.io/badge/-IPhone13-333333?style=flat&logo=Apple&logoColor=007396)
 ![IPad8](https://img.shields.io/badge/-IPad8-333333?style=flat&logo=Apple&logoColor=007396)
 ![XiaoMi11](https://img.shields.io/badge/-XiaoMi%2011-333333?style=flat&logo=XiaoMi&logoColor=007396)
@@ -37,7 +38,6 @@ Welcome to my Github page! I am WanAn
 ![Python](https://img.shields.io/badge/-Python-333333??style=for-the-badge&logo=Python&logoColor=007396)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333??style=for-the-badge&logo=C&logoColor=007396)
 ![Go](https://img.shields.io/badge/-Go-333333??style=for-the-badge&logo=Go&logoColor=007396)
-![PHP](https://img.shields.io/badge/-PHP-333333??style=for-the-badge&logo=PHP&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-Html5-333333??style=for-the-badge&logo=html5&logoColor=007396)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
   
