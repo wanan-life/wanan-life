@@ -29,6 +29,7 @@ Welcome to my Github page! I am WanAn
 💻 My device:<br>
 ![MacBookPro M1](https://img.shields.io/badge/-MacBookPro%20M1%202021-333333?style=flat&logo=Apple&logoColor=007396)
 ![Mac Mini M4](https://img.shields.io/badge/-MacMini%20M4%202024-333333?style=flat&logo=Apple&logoColor=007396)
+![IPhone16 Pro](https://img.shields.io/badge/-IPhone13-333333?style=flat&logo=Apple&logoColor=007396)
 ![IPhone13](https://img.shields.io/badge/-IPhone13-333333?style=flat&logo=Apple&logoColor=007396)
 ![IPad8](https://img.shields.io/badge/-IPad8-333333?style=flat&logo=Apple&logoColor=007396)
 ![XiaoMi11](https://img.shields.io/badge/-XiaoMi%2011-333333?style=flat&logo=XiaoMi&logoColor=007396)
